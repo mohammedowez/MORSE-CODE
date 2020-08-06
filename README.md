@@ -1,4 +1,4 @@
-# sem-4-project
+# MINI-project
 In this project Morse code is a technique in which is used to find at Encode or Decode the
 message which is in the form of text message, numbers, special characters and this is also
 used in application in transmitting text information as a series of blinking light tones
